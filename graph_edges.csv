@@ -1,0 +1,7 @@
+source,target,relation
+Perth,"Feature: Patient, silent, and solemn worker with a chronically broken back",HAS_CAPABILITY
+Perth,Feature: Lost the extremities of both feet after taking refuge in a barn during a cold winter night,HAS_CAPABILITY
+Perth,"Feature: Suffered complete ruin around age sixty due to alcoholism, referred to as the 'Bottle Conjuror'",HAS_CAPABILITY
+Perth,"Feature: Formerly a famed artisan who owned a house, garden, and had a loving family",HAS_CAPABILITY
+Ahab,Feature: Employs Perth to work on his leg,HAS_CAPABILITY
+Moby-Dick,Feature: Authored by Herman Melville,HAS_CAPABILITY

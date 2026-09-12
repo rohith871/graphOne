@@ -1,0 +1,114 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "type": "Entity",
+      "category": "Person",
+      "description": "An old, begrimed, and blistered blacksmith aboard the ship who patiently repairs weapons and tools for the crew despite a ruined past and physical affliction.",
+      "id": "Perth"
+    },
+    {
+      "type": "Feature",
+      "id": "Feature: Nearly sixty years old with a chronically broken back"
+    },
+    {
+      "type": "Feature",
+      "id": "Feature: Suffers from a painful yawing gait due to losing extremities of both feet to frostbite"
+    },
+    {
+      "type": "Feature",
+      "id": "Feature: Formerly a famed artisan who lost his home, family, and fortune to alcoholism"
+    },
+    {
+      "type": "Feature",
+      "id": "Feature: Operates a portable forge lashed to ringbolts by the foremast on deck"
+    },
+    {
+      "type": "Entity",
+      "category": "Person",
+      "description": "The captain of the ship, for whom Perth crafted or repaired an artificial leg.",
+      "id": "Ahab"
+    },
+    {
+      "type": "Feature",
+      "id": "Feature: Recipient of Perth's contributory blacksmithing work"
+    },
+    {
+      "type": "Entity",
+      "category": "Concept",
+      "description": "A metaphorical figure personifying alcoholism and addiction, which ruined Perth's family, career, and household.",
+      "id": "The Bottle Conjuror"
+    },
+    {
+      "type": "Feature",
+      "id": "Feature: Metaphorical fiend representing alcoholism"
+    },
+    {
+      "type": "Feature",
+      "id": "Feature: Brought financial and personal ruin to Perth's life"
+    },
+    {
+      "type": "Entity",
+      "category": "Object",
+      "description": "Perth's blacksmithing equipment retained on the deck of the ship.",
+      "id": "Portable Forge"
+    },
+    {
+      "type": "Feature",
+      "id": "Feature: Lashed to ringbolts by the foremast"
+    },
+    {
+      "type": "Feature",
+      "id": "Feature: Used for forging, altering, and repairing weapons like harpoons, lances, boat-spades, and pike-heads"
+    }
+  ],
+  "edges": [
+    {
+      "relation": "HAS_CAPABILITY",
+      "source": "Perth",
+      "target": "Feature: Nearly sixty years old with a chronically broken back"
+    },
+    {
+      "relation": "HAS_CAPABILITY",
+      "source": "Perth",
+      "target": "Feature: Suffers from a painful yawing gait due to losing extremities of both feet to frostbite"
+    },
+    {
+      "relation": "HAS_CAPABILITY",
+      "source": "Perth",
+      "target": "Feature: Formerly a famed artisan who lost his home, family, and fortune to alcoholism"
+    },
+    {
+      "relation": "HAS_CAPABILITY",
+      "source": "Perth",
+      "target": "Feature: Operates a portable forge lashed to ringbolts by the foremast on deck"
+    },
+    {
+      "relation": "HAS_CAPABILITY",
+      "source": "Ahab",
+      "target": "Feature: Recipient of Perth's contributory blacksmithing work"
+    },
+    {
+      "relation": "HAS_CAPABILITY",
+      "source": "The Bottle Conjuror",
+      "target": "Feature: Metaphorical fiend representing alcoholism"
+    },
+    {
+      "relation": "HAS_CAPABILITY",
+      "source": "The Bottle Conjuror",
+      "target": "Feature: Brought financial and personal ruin to Perth's life"
+    },
+    {
+      "relation": "HAS_CAPABILITY",
+      "source": "Portable Forge",
+      "target": "Feature: Lashed to ringbolts by the foremast"
+    },
+    {
+      "relation": "HAS_CAPABILITY",
+      "source": "Portable Forge",
+      "target": "Feature: Used for forging, altering, and repairing weapons like harpoons, lances, boat-spades, and pike-heads"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+source_node,target_node,relationship_type
+Perth,Feature: Nearly sixty years old with a chronically broken back,HAS_CAPABILITY
+Perth,Feature: Suffers from a painful yawing gait due to losing extremities of both feet to frostbite,HAS_CAPABILITY
+Perth,"Feature: Formerly a famed artisan who lost his home, family, and fortune to alcoholism",HAS_CAPABILITY
+Perth,Feature: Operates a portable forge lashed to ringbolts by the foremast on deck,HAS_CAPABILITY
+Ahab,Feature: Recipient of Perth's contributory blacksmithing work,HAS_CAPABILITY
+The Bottle Conjuror,Feature: Metaphorical fiend representing alcoholism,HAS_CAPABILITY
+The Bottle Conjuror,Feature: Brought financial and personal ruin to Perth's life,HAS_CAPABILITY
+Portable Forge,Feature: Lashed to ringbolts by the foremast,HAS_CAPABILITY
+Portable Forge,"Feature: Used for forging, altering, and repairing weapons like harpoons, lances, boat-spades, and pike-heads",HAS_CAPABILITY

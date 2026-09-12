@@ -1,0 +1,5 @@
+extracted_name,category,description,raw_features
+Perth,Person,"An old, begrimed, and blistered blacksmith aboard the ship who patiently repairs weapons and tools for the crew despite a ruined past and physical affliction.","Nearly sixty years old with a chronically broken back; Suffers from a painful yawing gait due to losing extremities of both feet to frostbite; Formerly a famed artisan who lost his home, family, and fortune to alcoholism; Operates a portable forge lashed to ringbolts by the foremast on deck"
+Ahab,Person,"The captain of the ship, for whom Perth crafted or repaired an artificial leg.",Recipient of Perth's contributory blacksmithing work
+The Bottle Conjuror,Concept,"A metaphorical figure personifying alcoholism and addiction, which ruined Perth's family, career, and household.",Metaphorical fiend representing alcoholism; Brought financial and personal ruin to Perth's life
+Portable Forge,Object,Perth's blacksmithing equipment retained on the deck of the ship.,"Lashed to ringbolts by the foremast; Used for forging, altering, and repairing weapons like harpoons, lances, boat-spades, and pike-heads"
